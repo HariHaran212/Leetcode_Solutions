@@ -13,9 +13,8 @@ class Solution {
 
         Set<String> set = new HashSet<>();
 
-        for(int i = 0 ; i<words.length ; i++){
-            String s = toMorse(str, words[i]);
-            set.add(s);
+        for(String s : words){
+            set.add(toMorse(str, s));
         }
 
         return set.size();
