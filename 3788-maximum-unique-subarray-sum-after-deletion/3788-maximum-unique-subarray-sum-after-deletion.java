@@ -1,24 +1,19 @@
 class Solution {
     public int maxSum(int[] nums) {
-        int n = nums.length;
-        Set<Integer> set = new HashSet<>();
         Arrays.sort(nums);
 
-        if(nums[n-1]<=0){
-            return nums[n-1];
-        }
+        int prev = nums[nums.length-1];
+        int sum = prev;
 
-        int i = 0;
-        for(; i<nums.length && nums[i]<=0 ; i++);
-
-        int sum = 0;
-
-        for( ; i<nums.length ; i++){
-            if(set.contains(nums[i])){
+        for(int i = nums.length-2; i>=0 ; i--){
+            if(nums[i]<=0){
+                return sum;
+            }
+            else if(nums[i] == prev){
                 continue;
             }
-            set.add(nums[i]);
             sum+=nums[i];
+            prev = nums[i];
         }
         return sum;
     }
