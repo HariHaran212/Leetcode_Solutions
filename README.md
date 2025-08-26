@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [1813-maximum-erasure-value](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/1813-maximum-erasure-value) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
