@@ -3,15 +3,8 @@ class Solution {
         int maxSum = Integer.MIN_VALUE;
         int currSum = 0;
         for(int num : nums){
-            if(num < currSum+num){
-                currSum += num;
-            }
-            else{
-                currSum = num;
-            }
-            if(currSum > maxSum){
-                maxSum = currSum;
-            }
+            currSum = Math.max(num, currSum+num);
+            maxSum = Math.max(currSum, maxSum);
         }
         return maxSum;
     }
