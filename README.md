@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
