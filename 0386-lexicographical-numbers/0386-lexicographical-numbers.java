@@ -18,25 +18,22 @@ class TrieNode{
         curr.isEndOfNum = true;
     }
 
-    private List<Integer> collectNumbers(TrieNode root, String prefix, List<Integer> result){
-        if(root == null) return result;
+    private void collectNumbers(TrieNode root, String prefix, List<Integer> result){
+        if(root == null) return;
 
         if(root.isEndOfNum){
-            int num = Integer.parseInt(prefix);
-            result.add(num);
+            result.add(Integer.parseInt(prefix));
         }
 
         for(int i = 0 ; i<10 ; i++){
             if(root.children[i] != null){
-                result = collectNumbers(root.children[i], prefix+(char)('0'+i), result);
+                collectNumbers(root.children[i], prefix+(char)('0'+i), result);
             }
         }
-
-        return result;
     }
 
-    public List<Integer>  getAll(List<Integer> result){
-        return collectNumbers(this, "", result);
+    public void getAll(List<Integer> result){
+        collectNumbers(this, "", result);
     }
 }
 class Solution {
@@ -47,7 +44,9 @@ class Solution {
             root.insert(i);
         }
 
-        List<Integer> result = root.getAll(new ArrayList<>());
+        List<Integer> result = new ArrayList<>();
+        
+        root.getAll(result);
         
         return result;
     }
