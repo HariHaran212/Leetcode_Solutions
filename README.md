@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0078-subsets) |
 | [1813-maximum-erasure-value](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/1813-maximum-erasure-value) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3194-find-words-containing-character](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0078-subsets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,4 +80,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0078-subsets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Math
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
