@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1813-maximum-erasure-value](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/1813-maximum-erasure-value) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Depth-First Search
 |  |
 | ------- |
