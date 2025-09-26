@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1813-maximum-erasure-value](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/1813-maximum-erasure-value) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3194-find-words-containing-character](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/3194-find-words-containing-character) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1813-maximum-erasure-value](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/1813-maximum-erasure-value) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -80,10 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -93,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/HariHaran212/Leetcode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
